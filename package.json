@@ -11,6 +11,8 @@
     "lint": "next lint"
   },
   "devDependencies": {
-    "@types/react": "^19.1.1"
+    "@types/node": "^22.14.1",
+    "@types/react": "^19.1.1",
+    "typescript": "^5.8.3"
   }
 }
