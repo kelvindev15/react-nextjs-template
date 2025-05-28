@@ -1,6 +1,4 @@
-import { TailwindConfig } from "tailwindcss/tailwind-config";
-
-const config: TailwindConfig = {
+const config = {
   content: [
     "./pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
